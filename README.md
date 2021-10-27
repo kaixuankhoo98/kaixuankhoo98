@@ -8,7 +8,7 @@ This is my page to store some of my university work so I can access it from both
 Here are the things I am currently working on:
 - C++
 - Object-oriented programming in C++
-
+- SQL and Databases
+- Writing bots for discord (see my Discord_Bots repo)
 
 If you feel the need to reach out to me, please don't hesitate to contact me on LinkedIn (@kaixuan.khoo) or by email (kaixuan.khoo.98@gmail.com).
-
