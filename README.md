@@ -10,6 +10,6 @@ This is my page to store some of my university work so I can access it from both
 
 Here are the things I am currently working on:
 - Writing bots for discord (see my Discord_Bots repo)
-- A travel dashboard for myself to use, featuring a mobile-friendly website [HERE!](https://kaixuankhoo.com/)
+- A full-stack gym application for self-recording my workout progress
 
 If you feel the need to reach out to me, please don't hesitate to contact me on LinkedIn (@kaixuan.khoo) or by email (kaixuan.khoo.98@gmail.com).
