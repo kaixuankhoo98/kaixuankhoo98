@@ -8,7 +8,7 @@ I have a first class MSci in Chemistry with Medicinal Chemistry from Imperial to
 
 Here are the things I am currently working on:
 - Writing bots for discord (see my Discord_Bots repo)
-- A full-stack gym application for self-recording my workout progress
+- A full-stack gym application for self-recording my workout progress (see [BE Repo](https://github.com/kaixuankhoo98/go-jwt) and [FE Repo](https://github.com/kaixuankhoo98/SwoleApp))
 - Self-hosting things on my own personal home server. 
 
 If you feel the need to reach out to me, please don't hesitate to contact me on LinkedIn (@kaixuan.khoo) or by email (kaixuan.khoo.98@gmail.com).
