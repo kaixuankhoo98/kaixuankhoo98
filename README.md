@@ -1,7 +1,7 @@
 Hello! You have found the GitHub page for Kaixuan Khoo. I hope this is what you were looking for.
 
-I am a software developer for [Content Guru](https://www.contentguru.com/en-gb/).
-I work primiarily with React/Typescript and .NET; though I have some Vue, PHP, Go, and Python experience.
+I am a software developer for [Zenika Singapore](https://zenika.com/en-SG).
+I work primiarily with React/Typescript and .NET; though I have some Vue.js, Java, PHP, Go, and Python experience.
 
 I have an MSc in Computing Science from Imperial College London.
 I have a first class MSci in Chemistry with Medicinal Chemistry from Imperial too!
